@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A Small Package for Book Recommender System
+Home-page: https://github.com/Jotaro-kuzo/Recommender-system-for-books
+Author: Jotaro-kuzo
+Author-email: sk6724486@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Recommender-system-for-books
+
